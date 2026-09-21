@@ -1,2 +1,2 @@
 # Smart-Banking-CMS
-Smart Banking CMS project using MySQL and SQL for banking data management and analysis.
+A Smart Banking CMS project for managing and analyzing customer, account, bank, and transaction data using MySQL and SQL.
