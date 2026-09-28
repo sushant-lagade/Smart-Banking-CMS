@@ -68,17 +68,11 @@ The Tableau dashboard includes:
 
 ## My Role
 
-I was mainly responsible for SQL and database-related work.
+## My Role
 
-My responsibilities included:
+This project was developed as part of a **3-member team**.
 
-- Working with customer, account and transaction data
-- Creating SQL queries
-- Performing data analysis
-- Using joins, filtering, grouping and aggregate functions
-- Checking and validating data
-- Supporting Power BI dashboard development
-
+My main responsibility was working on **SQL and database-related tasks**. I worked on data management, SQL queries, filtering, grouping, joins, aggregate functions, and data validation. I also supported the analysis and dashboard preparation using Excel and Power BI.
 ## Project Highlights
 
 - Total Customers: 500
