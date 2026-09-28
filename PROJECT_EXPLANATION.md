@@ -72,35 +72,20 @@
 
 ## 4\. Reports
 
-## 
 
-## 
 
-## 
+## Team and My Role
 
-## \## My Role and Responsibilities
+This project was developed as part of a **3-member team**.
 
-## 
+My main responsibility was working on **SQL and database-related tasks**.
 
-## I was mainly responsible for the SQL and database-related work.
+My responsibilities included:
 
-## 
-
-## My responsibilities included:
-
-## 
-
-## \- Working with customer, account and transaction data
-
-## \- Creating and managing SQL queries
-
-## \- Performing data analysis using SQL
-
-## \- Using joins, filtering, grouping and aggregate functions
-
-## \- Checking and validating the data
-
-## \- Preparing data for analysis and reporting
-
-## \- Supporting the Power BI dashboard development
-
+- Working with customer, account and transaction data
+- Creating and managing SQL queries
+- Performing data analysis using SQL
+- Using joins, filtering, grouping and aggregate functions
+- Checking and validating the data
+- Preparing data for analysis and reporting
+- Supporting the Power BI dashboard development
