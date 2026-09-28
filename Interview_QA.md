@@ -1,4 +1,4 @@
-# \# Smart Banking CMS – Interview Questions \& Answers
+# Smart Banking CMS – Interview Questions & Answers
 
 # 
 
@@ -22,7 +22,7 @@
 
 # 
 
-# I used MySQL, SQL, Microsoft Excel and Power BI for the project.
+# Our team used MySQL, SQL, Microsoft Excel, Power BI and Tableau for the project.
 
 # 
 
@@ -30,7 +30,7 @@
 
 # 
 
-# My main responsibility was SQL and database-related work. I worked with customer, account and transaction data, created SQL queries and performed data analysis.
+# This was a 3-member team project. My main responsibility was SQL and database-related work. I worked with customer, account and transaction data, created SQL queries and performed data analysis.
 
 # 
 
@@ -428,11 +428,11 @@
 
 # 
 
-# \### 48. How did you use Python in data analysis?
+# \### 48.How can Python be used in data analysis?
 
 # 
 
-# Python can be used to clean, transform and analyze data and create visualizations.
+# Python can be used to clean, transform and analyze data and create visualizations using libraries such as Pandas, NumPy and Matplotlib.
 
 # 
 
