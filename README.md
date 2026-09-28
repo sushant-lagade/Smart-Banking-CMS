@@ -68,11 +68,10 @@ The Tableau dashboard includes:
 
 ## My Role
 
-## My Role
-
 This project was developed as part of a **3-member team**.
 
 My main responsibility was working on **SQL and database-related tasks**. I worked on data management, SQL queries, filtering, grouping, joins, aggregate functions, and data validation. I also supported the analysis and dashboard preparation using Excel and Power BI.
+
 ## Project Highlights
 
 - Total Customers: 500
@@ -85,15 +84,29 @@ My main responsibility was working on **SQL and database-related tasks**. I work
 
 ```text
 Smart-Banking-CMS/
-├── SQL & Data Files
+├── README.md
+├── smart_banking_cms.sql
+├── sql_queries.sql
+├── banks.csv
+├── customers.csv
+├── accounts.csv
+├── transactions.csv
 ├── Smart_Banking_CMS_Analysis.xlsx
-├── DAX_Measures.md
 ├── PowerBI_Dashboard_Guide.md
+├── DAX_Measures.md
 ├── Tableau_Dashboard_Guide.md
 ├── Interview_QA.md
 ├── PROJECT_EXPLANATION.md
-├── PROJECT_STRUCTURE.md
 ├── BUSINESS_INSIGHTS.md
 ├── GITHUB_DESCRIPTION.txt
 ├── LINKEDIN_PROJECT_DESCRIPTION.txt
-└── Screenshots
+├── 01_MySQL_Database_Schema.png
+├── 02_SQL_Bank_Wise_Accounts.png
+├── 03_Excel_Dashboard.png
+├── 04_PowerBI_Banking_Overview.png
+├── 05_PowerBI_Customer_Analysis.png
+├── 06_PowerBI_Transaction_Analysis.png
+├── 07_Tableau_Banking_Overview.png
+├── 08_Tableau_Customer_Analysis.png
+├── 09_Tableau_Transaction_Analysis.png
+└── Smart_Banking_CMS_Dashboard.png
