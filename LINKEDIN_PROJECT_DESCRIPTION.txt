@@ -1,0 +1,15 @@
+Smart Banking CMS – Banking Data Analysis Project
+
+Worked on a banking data analysis project using MySQL, SQL, Excel and Power BI.
+
+The project includes customer, account, bank and transaction data. I worked mainly on SQL and database-related tasks, including data analysis, filtering, grouping, joins and aggregate functions.
+
+Key Analysis:
+• Customer and account analysis
+• Account balance analysis
+• Credit vs Debit transaction analysis
+• Bank-wise account and balance analysis
+• Monthly transaction trends
+• Power BI interactive dashboard
+
+Tools: MySQL, SQL, Excel, Power BI, Tableau

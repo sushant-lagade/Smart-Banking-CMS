@@ -1,0 +1,26 @@
+Smart Banking CMS
+
+A banking data management and analytics project developed using MySQL, SQL, Excel and Power BI.
+
+The project contains customer, account, bank and transaction data. SQL was used for database management and analysis, while Power BI was used to create an interactive dashboard and visualize important banking KPIs.
+
+Key Features:
+- Customer and account data management
+- Banking transaction analysis
+- SQL-based data analysis
+- Account balance analysis
+- Credit and debit transaction analysis
+- Power BI interactive dashboard
+- Bank-wise and account-wise analysis
+
+Tools & Technologies:
+MySQL | SQL | Microsoft Excel | Power BI | Tableau
+
+Project Highlights:
+- 500 Customers
+- 500 Accounts
+- 1000 Transactions
+- Total Balance: ₹65,886,516.03
+- Total Transaction Amount: ₹36,853,426.04
+
+This project demonstrates practical skills in SQL, data analysis, Excel and Power BI.
