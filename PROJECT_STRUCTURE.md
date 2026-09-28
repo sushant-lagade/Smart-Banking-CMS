@@ -1,3 +1,4 @@
+```text
 Smart-Banking-CMS/
 
 ├── README.md
@@ -26,6 +27,7 @@ Smart-Banking-CMS/
 ├── 08_Tableau_Customer_Analysis.png
 ├── 09_Tableau_Transaction_Analysis.png
 └── Smart_Banking_CMS_Dashboard.png
+```
 
 ## Project Structure
 
