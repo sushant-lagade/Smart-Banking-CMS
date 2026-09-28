@@ -1,78 +1,36 @@
-# Project Explanation
+# Smart Banking CMS
 
-## \# Smart Banking CMS
+## Project Overview
 
-## 
+Smart Banking CMS is a banking data management and analytics project.
 
-## \## Project Overview
+The project provides a common interface to manage and analyze customer, account, bank and transaction-related data.
 
-## 
+The main purpose of the project is to organize banking data, perform SQL-based analysis and create an interactive Power BI dashboard to understand important banking information.
 
-## Smart Banking CMS is a banking data management and analytics project.
+## Project Objective
 
-## 
+- Manage customer and account information
+- Store and analyze banking transactions
+- Perform SQL queries for data analysis
+- Analyze account balances and transaction activity
+- Create an interactive Power BI dashboard
+- Generate useful business insights from banking data
 
-## The project provides a common interface to manage and analyze
+## Technologies Used
 
-## customer, account, bank and transaction-related data.
+- MySQL
+- SQL
+- Microsoft Excel
+- Power BI
+- Tableau
 
-## 
+## Main Modules
 
-## The main purpose of the project is to organize banking data,
-
-## perform SQL-based analysis and create an interactive Power BI
-
-## dashboard to understand important banking information.
-
-## 
-
-## \## Project Objective
-
-## 
-
-## \- Manage customer and account information
-
-## \- Store and analyze banking transactions
-
-## \- Perform SQL queries for data analysis
-
-## \- Analyze account balances and transaction activity
-
-## \- Create an interactive Power BI dashboard
-
-## \- Generate useful business insights from banking data
-
-## 
-
-## \## Technologies Used
-
-## 
-
-## \- MySQL
-
-## \- SQL
-
-## \- Microsoft Excel
-
-## \- Power BI
-
-## \- Tableau
-
-## 
-
-## \## Main Modules
-
-## 
-
-## 1\. Admin
-
-## 2\. Customer
-
-## 3\. Bank Admin
-
-## 4\. Reports
-
-
+1. Admin
+2. Customer
+3. Bank Admin
+4. Reports
 
 ## Team and My Role
 
